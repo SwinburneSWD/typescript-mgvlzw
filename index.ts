@@ -6,7 +6,6 @@ let numText: string = "1";
 
 let numInt: number = 1;
 
-
 let ans = numInt * 2;
 
 // ---- if ----
